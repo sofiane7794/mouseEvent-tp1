@@ -10,6 +10,7 @@ const cursor1 = document.querySelector(".cursor1");
 // console.log(mouseMove);
 const cursor2 = document.querySelector(".cursor2");
 // console.log(cursor);
+// console.log(cursor);
 const cursor3 = document.querySelector(".cursor3");
 // console.log(cursor3);
 
