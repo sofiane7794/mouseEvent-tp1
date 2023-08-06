@@ -29,3 +29,5 @@ window.addEventListener("mousemove", (e) => {
   cursor3.style.left = e.pageX + "px";
   cursor3.style.top = e.pageY + "px";
 });
+
+// im sofiane
